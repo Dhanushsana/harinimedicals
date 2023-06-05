@@ -1,0 +1,12 @@
+.content{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    position: absolute;
+    z-index: -1;
+}
+.wholecon{
+    padding-top: 150px;
+}
